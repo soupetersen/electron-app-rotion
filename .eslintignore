@@ -1,0 +1,5 @@
+out
+build
+/*.js
+node_modules
+dist
